@@ -1,0 +1,1 @@
+Resume made while making "GoIT" two weeks intesive front-end course
