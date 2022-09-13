@@ -1,1 +1,1 @@
-Resume made while making "GoIT" two weeks intesive front-end course
+Resume made while making "GoIT" 7 days intesive front-end course
